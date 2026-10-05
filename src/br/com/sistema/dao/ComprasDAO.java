@@ -1,6 +1,6 @@
 package br.com.sistema.dao;
 
-import br.com.sistema.jdbc.ConnectionFactory;
+import br.com.sistema.dao.ConnectionFactory;
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.PreparedStatement;
